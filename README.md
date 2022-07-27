@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Grilo16
 - 👀 I’m interested in all forms of complexities and beauty of logic
-- 🌱 I’m currently learning bioinformatics 
+- 🌱 I’m currently studying at codeclan =)
 - 💞️ I’m looking to collaborate with humanity 
 - 📫 How to reach me: tom.jf.britton@gmail.com  
 
